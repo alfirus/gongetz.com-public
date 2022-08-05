@@ -1,0 +1,81 @@
+[
+	{
+		"_id": {
+			"$oid": "5f91aaee84bc762369b7586a"
+		},
+		"ConsumerFName": "ALFIRUS",
+		"ConsumerLName": "AHMAD",
+		"ConsumerIDType": "MYKAD",
+		"ConsumerIDNo": "820627065347",
+		"ConsumerEmail": "alfirus@gmail.com",
+		"ConsumerPhone": "10101010",
+		"ConsumerAddress": "abc",
+		"ConsumerPostcode": "12000",
+		"ConsumerCity": "",
+		"ConsumerState": "",
+		"ConsumerPassword": "$2y$04$yKWhVMc.U4shi41MYFVpDecSEiBJwAkseKpd603tJJDpKo4fN9Sdi",
+		"ConsumerStatus": "ACTIVE",
+		"ConsumerRegDate": {
+			"$date": {
+				"$numberLong": "1603468800000"
+			}
+		},
+		"ConsumerGroup_id": "601b4f1697728c027c01f188",
+		"ConsumerToken": "62e245cdf28e3725f00ea658|LIElo8HzeLcYm04CT53FpjSbgJyzWj9vKusS9CmQ",
+		"updated_at": {
+			"$date": {
+				"$numberLong": "1658996186913"
+			}
+		},
+		"ConsumerSession": "42de7311-6f1e-460d-bae0-9a2e31200672",
+		"ConsumerLogged": "0"
+	},
+	{
+		"_id": {
+			"$oid": "5fd2d8ab60174f0a5c4670b4"
+		},
+		"ConsumerFName": "AMIRAH",
+		"ConsumerLName": "ATHIFAH",
+		"ConsumerIDType": "MYKAD",
+		"ConsumerIDNo": "951123115072",
+		"ConsumerEmail": "azaharmyra95@gmail.com",
+		"ConsumerPhone": "0106692394",
+		"ConsumerAddress": "LOT 2343 JLN KG KELONG,16200 TUMPAT, KELANTAN ",
+		"ConsumerPostcode": "16200",
+		"ConsumerCity": "TUMPAT",
+		"ConsumerState": "KELANTAN",
+		"ConsumerPassword": "$2y$04$yKWhVMc.U4shi41MYFVpDecSEiBJwAkseKpd603tJJDpKo4fN9Sdi",
+		"ConsumerStatus": "ACTIVE",
+		"ConsumerGroup_id": "601b4cfd97728c027c01f187",
+		"ConsumerRegDate": {
+			"$date": {
+				"$numberLong": "1603468800000"
+			}
+		},
+		"ConsumerLogged": "0"
+	},
+	{
+		"_id": {
+			"$oid": "604594f333630a180d00a595"
+		},
+		"ConsumerFName": "AINA SYALABIAH",
+		"ConsumerLName": "AHMAD RIDHWAN",
+		"ConsumerIDType": "MYKAD",
+		"ConsumerIDNo": "040524100392",
+		"ConsumerEmail": "",
+		"ConsumerPhone": "",
+		"ConsumerAddress": "NO 10 JALAN GAPI 1D/14, ANTARA GAPI,  48200 SERENDAH",
+		"ConsumerPostcode": " 48200",
+		"ConsumerCity": "SERENDAH",
+		"ConsumerState": "SELANGOR",
+		"ConsumerPassword": "$2y$04$GJ818LbZHZrTlCTs.jys/O.aCZphILcNxhDd38eGWnIQP1g6AujO.",
+		"ConsumerStatus": "ACTIVE",
+		"ConsumerGroup_id": "6018c32b10184a751c102eb6",
+		"ConsumerRegDate": {
+			"$date": {
+				"$numberLong": "1615172851000"
+			}
+		},
+		"ConsumerLogged": "0"
+	}
+]

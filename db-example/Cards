@@ -1,0 +1,137 @@
+[
+	{
+		"_id": {
+			"$oid": "5ffeb1de82fdbf06012b6ff6"
+		},
+		"CardsVendorID": "?",
+		"CardsFactoryID": "8804133bf2206f80",
+		"Cards_id": {
+			"$numberLong": "1000000000000000"
+		},
+		"CardsType": "?",
+		"Consumer_id": "62578d79865ee682e0bc0d0f",
+		"CardsIssueDate": {
+			"$date": {
+				"$numberLong": "1610527198000"
+			}
+		},
+		"CardsExpiry": {
+			"$date": {
+				"$numberLong": "1610527198000"
+			}
+		},
+		"CardsMPassword": "57304e47354253464958314450434c54",
+		"CardsAp1Key1": "344b31324547575154534e3058354243",
+		"CardsAp1Key2": "5345514357464a545a473642314f4144",
+		"CardsAp1Key3": "52324a54483941555a584b30424f334c",
+		"CardsAp1Data": "21E84E0B2C3A2269",
+		"CardsAp2Key1": "42514c4e545a36594b535038394a3744",
+		"CardsAp2Key2": "565949483153554b5157374d5435444e",
+		"CardsAp2Key3": "3148414c4656544e3743454d35513658",
+		"CardsAp2Data": "A4C5D7488917B2C7",
+		"CardsAp3Key1": "504931554f47434e3656464830534d42",
+		"CardsAp3Key2": "554c3158395a4e5951344a50354b474f",
+		"CardsAp3Key3": "4147504f4251484e5935495730524d54",
+		"CardsAp3Data": "2CECF0766183766D",
+		"CardsAuth1": "1",
+		"CardsAuth2": "1",
+		"CardsAuth3": "0",
+		"CardsEnDate": {
+			"$date": {
+				"$numberLong": "1739025708376"
+			}
+		},
+		"CardsStatus": "ACTIVE",
+		"CardsRemark": "FORMATTED"
+	},
+	{
+		"_id": {
+			"$oid": "5ffeb1de82fdbf06012b6ff7"
+		},
+		"CardsVendorID": "?",
+		"CardsFactoryID": "8804496b721b6f80",
+		"Cards_id": {
+			"$numberLong": "1000000000000001"
+		},
+		"CardsType": "?",
+		"Consumer_id": "62578d98865ee682e0bc0d12",
+		"CardsIssueDate": {
+			"$date": {
+				"$numberLong": "1610527198000"
+			}
+		},
+		"CardsExpiry": {
+			"$date": {
+				"$numberLong": "1610527198000"
+			}
+		},
+		"CardsMPassword": "53454458503655324d334a5248435646",
+		"CardsAp1Key1": "5034494e4b384d514c3739563346364f",
+		"CardsAp1Key2": "4257494d3453594a4b394c4558313746",
+		"CardsAp1Key3": "5342554c33544941574f4a3832375635",
+		"CardsAp1Data": "BCB38A391EC064C6",
+		"CardsAp2Key1": "4e5842544845565a335759314d494c38",
+		"CardsAp2Key2": "5a4257334c58523234554351304d5937",
+		"CardsAp2Key3": "454f573548385a445431323042435341",
+		"CardsAp2Data": "44DAAF68F62C286C",
+		"CardsAp3Key1": "5730524c434b56454431534e3938544d",
+		"CardsAp3Key2": "4657364d54424e485058304f49415a43",
+		"CardsAp3Key3": "42344c50555651523631384b30453348",
+		"CardsAp3Data": "8435C9C906B6E3C9",
+		"CardsAuth1": "1",
+		"CardsAuth2": "1",
+		"CardsAuth3": "0",
+		"CardsEnDate": {
+			"$date": {
+				"$numberLong": "1739025717448"
+			}
+		},
+		"CardsStatus": "ACTIVE",
+		"CardsRemark": "FORMATTED"
+	},
+	{
+		"_id": {
+			"$oid": "5ffeb1de82fdbf06012b6ff8"
+		},
+		"CardsVendorID": "?",
+		"CardsFactoryID": "",
+		"Cards_id": {
+			"$numberLong": "1000000000000002"
+		},
+		"CardsType": "?",
+		"Consumer_id": "62578da8865ee682e0bc0d13",
+		"CardsIssueDate": {
+			"$date": {
+				"$numberLong": "1610527198000"
+			}
+		},
+		"CardsExpiry": {
+			"$date": {
+				"$numberLong": "1610527198000"
+			}
+		},
+		"CardsMPassword": "474f413646584e4d59375654395a4345",
+		"CardsAp1Key1": "574438465241424e5945314f47325343",
+		"CardsAp1Key2": "47504e434b444555575253314c46584d",
+		"CardsAp1Key3": "50545634314a4651414b4e5845393536",
+		"CardsAp1Data": "32B20FF3FBD369F8",
+		"CardsAp2Key1": "4431424e505152535939414f45334a5a",
+		"CardsAp2Key2": "5933394a4c344b41585245465643475a",
+		"CardsAp2Key3": "4b4f4d575a56594e3734353643483047",
+		"CardsAp2Data": "3DB6B15D301CBCFC",
+		"CardsAp3Key1": "3147524f57454e423756443559433338",
+		"CardsAp3Key2": "5a353831525341304339485845445146",
+		"CardsAp3Key3": "534a3935374e325741514955474f4254",
+		"CardsAp3Data": "EE7BC126AEE266CA",
+		"CardsAuth1": "1",
+		"CardsAuth2": "1",
+		"CardsAuth3": "0",
+		"CardsEnDate": {
+			"$date": {
+				"$numberLong": "1612882983615"
+			}
+		},
+		"CardsStatus": "ACTIVE",
+		"CardsRemark": "NOT FORMATTED"
+	}
+]

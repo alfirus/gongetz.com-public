@@ -1,0 +1,95 @@
+[
+	{
+		"_id": {
+			"$oid": "628dad25fca99376655e9d52"
+		},
+		"Consumer_id": "62578dd6865ee682e0bc0d15",
+		"MerchantReceipts_id": "",
+		"WalletDate": {
+			"$date": {
+				"$numberLong": "1653452069000"
+			}
+		},
+		"WalletCredit": 0,
+		"WalletDebit": 0,
+		"WalletBalance": 0,
+		"WalletStatus": "APPROVED",
+		"CardNo": {
+			"$numberLong": "1000000000000004"
+		},
+		"chash": "c1fc9c1c85112a0e8f3de6eafcae1d907d48d86a869967f50335ed20c2e29271",
+		"phash": null
+	},
+	{
+		"_id": {
+			"$oid": "629ef53185777d046139c433"
+		},
+		"Consumer_id": "62579526865ee682e0bc0d1e",
+		"MerchantReceipts_id": "",
+		"WalletDate": {
+			"$date": {
+				"$numberLong": "1654584625000"
+			}
+		},
+		"WalletCredit": 0,
+		"WalletDebit": 0,
+		"WalletBalance": 0,
+		"WalletStatus": "APPROVED",
+		"CardNo": {
+			"$numberLong": "1000000000000009"
+		},
+		"chash": "0b1422b7e3960680fa7b1243b028fd57caef28a4486cb2d728445549aef57054",
+		"phash": "c1fc9c1c85112a0e8f3de6eafcae1d907d48d86a869967f50335ed20c2e29271"
+	},
+	{
+		"_id": {
+			"$oid": "62a01c3ef28e3725f00ea41e"
+		},
+		"Consumer_id": "625794b1865ee682e0bc0d18",
+		"MerchantReceipts_id": "",
+		"WalletStatus": "APPROVED",
+		"CardNo": {
+			"$numberLong": "1000000000000014"
+		},
+		"WalletCredit": 30,
+		"WalletDebit": 0,
+		"WalletBalance": 30,
+		"WalletDate": {
+			"$date": {
+				"$numberLong": "1654660158918"
+			}
+		},
+		"updated_at": {
+			"$date": {
+				"$numberLong": "1654660158919"
+			}
+		},
+		"chash": "88df746fdc1828419ae6e5cb9c6822d8f254a48d708911385c206f1c84e59b9d",
+		"phash": "0b1422b7e3960680fa7b1243b028fd57caef28a4486cb2d728445549aef57054"
+	},
+	{
+		"_id": {
+			"$oid": "62a16873f28e3725f00ea42e"
+		},
+		"Consumer_id": "62579519865ee682e0bc0d1d",
+		"CardNo": {
+			"$numberLong": "1000000000000008"
+		},
+		"WalletCredit": 0,
+		"WalletDebit": 0,
+		"WalletBalance": 0,
+		"WalletStatus": "APPROVED",
+		"updated_at": {
+			"$date": {
+				"$numberLong": "1654745203454"
+			}
+		},
+		"WalletDate": {
+			"$date": {
+				"$numberLong": "1654745203454"
+			}
+		},
+		"chash": "b3453835b4e1a247370f4b72dac1db7e0fa2b5c47b6d2e0702945ac0f49739c2",
+		"phash": "88df746fdc1828419ae6e5cb9c6822d8f254a48d708911385c206f1c84e59b9d"
+	}
+]

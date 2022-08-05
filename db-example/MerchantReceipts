@@ -1,0 +1,86 @@
+[
+	{
+		"_id": {
+			"$oid": "62b962ccf28e3725f00ea51d"
+		},
+		"Merchants_id": "624ff898a6ee88a4d67cf711",
+		"CardNo": {
+			"$numberLong": "1000000000000008"
+		},
+		"ReceiptsNo": "d7712d21f47f6b67d08e8eee1f1e35a7a3fee5e8",
+		"ReceiptsStatus": "APPROVED",
+		"ReceiptsTotalAmount": 0.06,
+		"ProductSold": [
+			"{\"ProductName\":\"Bihun Sup\",\"ProductId\":\"628b29771e43e04cb937d362\",\"ProductSku\":\"\",\"ProductQuantity\":\"1\",\"ProductAmount\":\"0.05\"}",
+			"{\"ProductName\":\"Tembikai\",\"ProductId\":\"628b291bca852b47b34bd5b2\",\"ProductSku\":\"\",\"ProductQuantity\":\"1\",\"ProductAmount\":\"0.01\"}"
+		],
+		"updated_at": {
+			"$date": {
+				"$numberLong": "1656316620249"
+			}
+		},
+		"ReceiptDate": {
+			"$date": {
+				"$numberLong": "1656316620249"
+			}
+		},
+		"phash": null,
+		"chash": "3f62f9fb87a247a963caf16e2c3a80953942502878c42202b6003c7f1e0fbd8a"
+	},
+	{
+		"_id": {
+			"$oid": "62be59f4a2d6bfb82dce8d14"
+		},
+		"Merchants_id": "624ff898a6ee88a4d67cf711",
+		"CardNo": {
+			"$numberLong": "1000000000000009"
+		},
+		"ReceiptsNo": "4e005c460968c8117e21e19a1db0c4c5cbab237e",
+		"ReceiptsStatus": "APPROVED",
+		"ReceiptsTotalAmount": 0.11,
+		"ProductSold": [
+			"{\"ProductName\":\"Bihun Sup\",\"ProductId\":\"628b29771e43e04cb937d362\",\"ProductSku\":\"\",\"ProductQuantity\":\"1\",\"ProductAmount\":\"0.05\"}",
+			"{\"ProductName\":\"Tembikai\",\"ProductId\":\"628b291bca852b47b34bd5b2\",\"ProductSku\":\"\",\"ProductQuantity\":\"1\",\"ProductAmount\":\"0.01\"}",
+			"{\"ProductName\":\"Nasi Lemak\",\"ProductId\":\"628b28b529f3e05a5a62c8a2\",\"ProductSku\":\"\",\"ProductQuantity\":\"1\",\"ProductAmount\":\"0.05\"}"
+		],
+		"updated_at": {
+			"$date": {
+				"$numberLong": "1656316637793"
+			}
+		},
+		"ReceiptDate": {
+			"$date": {
+				"$numberLong": "1656316637793"
+			}
+		},
+		"chash": "5159713311683b6380b011c0fe770b6cf0e6509013bb7acbc3138ae787f8ff71",
+		"phash": "3f62f9fb87a247a963caf16e2c3a80953942502878c42202b6003c7f1e0fbd8a"
+	},
+	{
+		"_id": {
+			"$oid": "62c24ae4f28e3725f00ea539"
+		},
+		"Merchants_id": "624ff898a6ee88a4d67cf711",
+		"CardNo": {
+			"$numberLong": "1000000000000008"
+		},
+		"ReceiptsNo": "555b3705992c48dee8ce5318b41494581a5ac55a",
+		"ReceiptsStatus": "APPROVED",
+		"ReceiptsTotalAmount": 0.03,
+		"ProductSold": [
+			"{\"ProductName\":\"Milo Ais\",\"ProductId\":\"628b289b3eef136af45129c2\",\"ProductSku\":\"\",\"ProductQuantity\":\"1\",\"ProductAmount\":\"0.03\"}"
+		],
+		"updated_at": {
+			"$date": {
+				"$numberLong": "1656900324042"
+			}
+		},
+		"ReceiptDate": {
+			"$date": {
+				"$numberLong": "1656900324042"
+			}
+		},
+		"chash": "db6e91ad06e06abb5dffb8250da46e8c8475bdb890648cfb47cc7adb501260e1",
+		"phash": "5159713311683b6380b011c0fe770b6cf0e6509013bb7acbc3138ae787f8ff71"
+	}
+]
